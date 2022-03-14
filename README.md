@@ -18,3 +18,7 @@ Than you should execute the following commands
 
 - terraform init
 - terraform apply
+
+After watching the magic happen you shold run the following to remove the instance from AWS
+
+- terraform destroy
